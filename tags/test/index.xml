@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on Absurd Abstract</title>
+    <link>http://localhost:1313/tags/test/</link>
+    <description>Recent content in Test on Absurd Abstract</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Nov 2024 18:55:30 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NewPost</title>
+      <link>http://localhost:1313/posts/newpost/</link>
+      <pubDate>Wed, 20 Nov 2024 18:55:30 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/newpost/</guid>
+      <description>&lt;p&gt;This is a post, this is what it looks like.&lt;/p&gt;</description>
+      <content>&lt;p&gt;This is a post, this is what it looks like.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
