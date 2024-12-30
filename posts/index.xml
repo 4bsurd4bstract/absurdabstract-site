@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Absurd Abstract</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Absurd Abstract</description>
+    <title>Posts on Julian Power</title>
+    <link>https://power44.me/posts/</link>
+    <description>Recent content in Posts on Julian Power</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Nov 2024 18:55:30 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Nov 2024 18:55:30 -0500</lastBuildDate><atom:link href="https://power44.me/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NewPost</title>
-      <link>http://localhost:1313/posts/newpost/</link>
+      <link>https://power44.me/posts/newpost/</link>
       <pubDate>Wed, 20 Nov 2024 18:55:30 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/newpost/</guid>
+      <guid>https://power44.me/posts/newpost/</guid>
       <description>&lt;p&gt;This is a post, this is what it looks like.&lt;/p&gt;</description>
       <content>&lt;p&gt;This is a post, this is what it looks like.&lt;/p&gt;
 </content>
