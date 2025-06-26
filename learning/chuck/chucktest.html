@@ -10,6 +10,10 @@
         if (theChuck === undefined) {
           theChuck = await Chuck.init([]);
         }
+        
+        if (theChuck.context.state === "suspended") {
+            theChuck.context.resume();
+        }
         // Run ChucK code
         theChuck.runCode(`
           SinOsc sin => dac;
